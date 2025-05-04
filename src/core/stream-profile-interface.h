@@ -10,6 +10,7 @@
 #include <memory>
 #include <vector>
 #include <ostream>
+#include <cstdint>
 
 
 namespace librealsense {

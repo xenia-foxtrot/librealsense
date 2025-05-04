@@ -10,6 +10,7 @@
 #include <unordered_map>
 #include <vector>
 #include <memory>
+#include <cstdint>
 
 void _check_gl_error(const char *file, int line);
 void clear_gl_errors();

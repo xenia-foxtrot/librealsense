@@ -6,6 +6,7 @@
 #include <librealsense2/h/rs_types.h>
 
 #include <vector>
+#include <cstdint>
 #include <memory>
 
 

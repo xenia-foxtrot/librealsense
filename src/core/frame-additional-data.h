@@ -8,6 +8,7 @@
 #include <memory>
 #include <array>
 #include <cstring>  // memcpy
+#include <cstdint>
 
 
 namespace librealsense {
